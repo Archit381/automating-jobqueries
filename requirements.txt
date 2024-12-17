@@ -1,0 +1,9 @@
+langchain-groq
+fastapi
+uvicorn
+python-dotenv
+pandas
+tqdm
+requests
+bs4
+lxml
