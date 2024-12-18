@@ -7,3 +7,8 @@ tqdm
 requests
 bs4
 lxml
+chardet
+streamlit
+PyPDF2
+python-docx
+pyperclip
